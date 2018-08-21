@@ -6,6 +6,7 @@ require 'pry'
 class Owner
   # code goes here
   @@all = []
+  @@count = 0
 
   def initialize(species)
     @@all << self
@@ -20,6 +21,6 @@ class Owner
   end
 
   def self.count
-
+    
   end
 end
