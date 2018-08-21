@@ -11,6 +11,6 @@ class Cat
   end
 
   def mood
-    
+
   end
 end
