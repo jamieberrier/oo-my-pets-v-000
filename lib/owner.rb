@@ -54,7 +54,6 @@ class Owner
     # the @pets hash stored in the pets attr_accessor.
   # @pets = {fishes: [], cats: [], dogs: []}
   def buy_fish(name)
-    
-    @pets[fishes][Fish.new(name)
+    @pets[fishes][Fish.new(name)]
   end
 end
