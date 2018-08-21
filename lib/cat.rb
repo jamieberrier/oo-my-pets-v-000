@@ -13,8 +13,8 @@ class Cat
   def mood=
 
   end
-  
+
   def mood
-    "nervous"
+    
   end
 end
