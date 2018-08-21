@@ -26,6 +26,6 @@ class Owner
   end
 
   def species
-
+    "human"
   end
 end
