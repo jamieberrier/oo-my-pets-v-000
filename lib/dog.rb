@@ -4,4 +4,5 @@ require 'pry'
   # the @pets hash stored in the pets attr_accessor.
 class Dog
   # code goes here
+  
 end
