@@ -17,10 +17,10 @@ class Owner
   end
 
   def self.reset_all
-
+    @@count = 0
   end
 
   def self.count
-    
+
   end
 end
