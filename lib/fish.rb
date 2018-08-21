@@ -4,5 +4,8 @@ require 'pry'
   # the @pets hash stored in the pets attr_accessor.
 class Fish
   # code goes here
-  
+  attr_reader :name
+  def initialize(name)
+    @name = name
+  end
 end
