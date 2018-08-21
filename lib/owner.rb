@@ -67,6 +67,7 @@ class Owner
 
   def walk_dogs
     binding.pry
-    @pets[:dogs]
+    @pets[:dogs].each do |key, value|
+      puts "#{key}: #{value}"
   end
 end
