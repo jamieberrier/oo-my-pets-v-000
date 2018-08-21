@@ -8,7 +8,7 @@ class Owner
   @@all = []
   
   def initialize(species)
-
+    @@all << self
   end
 
   def self.all
