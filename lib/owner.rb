@@ -24,4 +24,8 @@ class Owner
   def self.count
     @@count
   end
+
+  def species
+
+  end
 end
