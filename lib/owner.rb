@@ -8,6 +8,6 @@ class Owner
 
 
   def all
-    
+    self
   end
 end
