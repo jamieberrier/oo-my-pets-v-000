@@ -79,7 +79,7 @@ class Owner
 
   def sell_pets
     binding.pry
-    Owner.reset_all
+    
       # @pets[:dogs].each {|dog| dog.mood=("nervous")}
       # @pets[:cats].each {|cat| cat.mood=("nervous")}
       # @pets[:fishes].each {|fish| fish.mood=("nevous")}
