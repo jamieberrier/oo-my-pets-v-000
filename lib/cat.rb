@@ -10,6 +10,10 @@ class Cat
     self.mood
   end
 
+  def mood=
+
+  end
+  
   def mood
     "nervous"
   end
