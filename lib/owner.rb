@@ -78,7 +78,7 @@ class Owner
   end
 
   def sell_pets
-    reset_all
+    Owner.reset_all
       # @pets[:dogs].each {|dog| dog.mood=("nervous")}
       # @pets[:cats].each {|cat| cat.mood=("nervous")}
       # @pets[:fishes].each {|fish| fish.mood=("nevous")}
