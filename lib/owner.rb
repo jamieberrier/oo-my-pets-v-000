@@ -42,4 +42,7 @@ class Owner
   def name
     @name
   end
+
+  def pets
+  end
 end
