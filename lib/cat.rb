@@ -10,7 +10,7 @@ class Cat
     self.mood
   end
 
-  def mood=
+  def mood=()
 
   end
 
