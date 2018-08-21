@@ -11,6 +11,6 @@ class Cat
   end
 
   def mood
-
+    "nervous"
   end
 end
