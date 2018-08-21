@@ -53,6 +53,6 @@ class Owner
   # Associate that new pet instance to the owner by adding it to the appropriate array-value of
     # the @pets hash stored in the pets attr_accessor.
   def buy_fish(name)
-    Fish.new(name)
+    @pets[Fish.new(name)]
   end
 end
