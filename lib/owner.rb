@@ -44,6 +44,6 @@ class Owner
   end
 
   def pets
-      @pets
+    @pets
   end
 end
