@@ -5,7 +5,7 @@ require 'pry'
 
 class Owner
   # code goes here
-  def initialize()
+  def initialize(species)
 
   end
 
